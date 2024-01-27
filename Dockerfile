@@ -1,4 +1,4 @@
-FROM samxd7/fedora:38
+FROM colserra/fedora37_wf:latest
 WORKDIR /bot
 
 #RUN dnf -qq -y upgrade \
